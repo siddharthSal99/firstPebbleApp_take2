@@ -1,0 +1,25 @@
+{
+    "author": "Siddharth ",
+    "dependencies": {},
+    "keywords": [],
+    "name": "buildgt_2",
+    "pebble": {
+        "displayName": "BUILDGT_2",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "5f9925f3-80f9-43cc-b031-ddd003e13a7a",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
